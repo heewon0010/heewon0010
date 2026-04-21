@@ -3,3 +3,6 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/heewon0010?pet-id=831315217194393224&contribution-view=false" width="1000" height="120" />
 </a>
+
+개발하는 평?범한 청년입니다
+-# 가끔 계정 비계로 돌려용
